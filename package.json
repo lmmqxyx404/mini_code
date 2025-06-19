@@ -1,0 +1,22 @@
+{
+  "name": "mini_code",
+  "version": "1.0.0",
+  "description": "demo for mini code",
+  "main": "index.js",
+  "scripts": {
+    "test": "none"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lmmqxyx404/mini_code.git"
+  },
+  "keywords": [
+    "vscode"
+  ],
+  "author": "",
+  "license": "AGPL-3.0-only",
+  "bugs": {
+    "url": "https://github.com/lmmqxyx404/mini_code/issues"
+  },
+  "homepage": "https://github.com/lmmqxyx404/mini_code#readme"
+}
